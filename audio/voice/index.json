@@ -1,0 +1,1423 @@
+{
+ "voice": "Kokoro-82M v1.0 (Apache-2.0) · bf_emma",
+ "note": "The voice command module’s spoken replies: an AI voice, made offline by scripts/audio/narrate.py.",
+ "items": {
+  "choose": {
+   "file": "voice/choose.mp3",
+   "hash": "e49d34ae",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.337,
+   "cues": [
+    [
+     0.03,
+     3.187
+    ]
+   ]
+  },
+  "down": {
+   "file": "voice/down.mp3",
+   "hash": "3a53f58e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.311,
+   "cues": [
+    [
+     0.03,
+     1.161
+    ]
+   ]
+  },
+  "help": {
+   "file": "voice/help.mp3",
+   "hash": "ae967f46",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.929,
+   "cues": [
+    [
+     0.03,
+     1.779
+    ]
+   ]
+  },
+  "level:T01": {
+   "file": "voice/level-T01.mp3",
+   "hash": "d7728f1a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.42,
+   "cues": [
+    [
+     0.03,
+     2.27
+    ]
+   ]
+  },
+  "level:T02": {
+   "file": "voice/level-T02.mp3",
+   "hash": "f9a70400",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.377,
+   "cues": [
+    [
+     0.03,
+     2.227
+    ]
+   ]
+  },
+  "level:T03": {
+   "file": "voice/level-T03.mp3",
+   "hash": "d847b8c6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.505,
+   "cues": [
+    [
+     0.03,
+     2.355
+    ]
+   ]
+  },
+  "level:T04": {
+   "file": "voice/level-T04.mp3",
+   "hash": "3aa472fe",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.591,
+   "cues": [
+    [
+     0.03,
+     2.441
+    ]
+   ]
+  },
+  "level:T05": {
+   "file": "voice/level-T05.mp3",
+   "hash": "f29d080a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.548,
+   "cues": [
+    [
+     0.03,
+     2.398
+    ]
+   ]
+  },
+  "level:T06": {
+   "file": "voice/level-T06.mp3",
+   "hash": "a2ff34b8",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.399,
+   "cues": [
+    [
+     0.03,
+     2.249
+    ]
+   ]
+  },
+  "level:T07": {
+   "file": "voice/level-T07.mp3",
+   "hash": "056bc23a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.124,
+   "cues": [
+    [
+     0.03,
+     2.974
+    ]
+   ]
+  },
+  "map-close": {
+   "file": "voice/map-close.mp3",
+   "hash": "f76e57d2",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.375,
+   "cues": [
+    [
+     0.03,
+     1.225
+    ]
+   ]
+  },
+  "map-inside": {
+   "file": "voice/map-inside.mp3",
+   "hash": "4328d586",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.612,
+   "cues": [
+    [
+     0.03,
+     2.462
+    ]
+   ]
+  },
+  "map-open": {
+   "file": "voice/map-open.mp3",
+   "hash": "c05211a6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.439,
+   "cues": [
+    [
+     0.03,
+     1.289
+    ]
+   ]
+  },
+  "narrator-on": {
+   "file": "voice/narrator-on.mp3",
+   "hash": "c491e002",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.417,
+   "cues": [
+    [
+     0.03,
+     1.267
+    ]
+   ]
+  },
+  "no-store": {
+   "file": "voice/no-store.mp3",
+   "hash": "babb920e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.783,
+   "cues": [
+    [
+     0.03,
+     2.633
+    ]
+   ]
+  },
+  "not-caught": {
+   "file": "voice/not-caught.mp3",
+   "hash": "23b2376a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.972,
+   "cues": [
+    [
+     0.03,
+     1.822
+    ]
+   ]
+  },
+  "nothing-to-read": {
+   "file": "voice/nothing-to-read.mp3",
+   "hash": "d954d9c6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.164,
+   "cues": [
+    [
+     0.03,
+     2.014
+    ]
+   ]
+  },
+  "online": {
+   "file": "voice/online.mp3",
+   "hash": "84e7deca",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.017,
+   "cues": [
+    [
+     0.03,
+     2.867
+    ]
+   ]
+  },
+  "outside": {
+   "file": "voice/outside.mp3",
+   "hash": "e996182e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.609,
+   "cues": [
+    [
+     0.03,
+     1.459
+    ]
+   ]
+  },
+  "plaza": {
+   "file": "voice/plaza.mp3",
+   "hash": "0e493fe6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.375,
+   "cues": [
+    [
+     0.03,
+     1.225
+    ]
+   ]
+  },
+  "route:N01": {
+   "file": "voice/route-N01.mp3",
+   "hash": "df1e397c",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.463,
+   "cues": [
+    [
+     0.03,
+     2.313
+    ]
+   ]
+  },
+  "route:N02": {
+   "file": "voice/route-N02.mp3",
+   "hash": "487f9880",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.143,
+   "cues": [
+    [
+     0.03,
+     1.993
+    ]
+   ]
+  },
+  "route:N03": {
+   "file": "voice/route-N03.mp3",
+   "hash": "9284d88a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.761,
+   "cues": [
+    [
+     0.03,
+     2.611
+    ]
+   ]
+  },
+  "route:N04": {
+   "file": "voice/route-N04.mp3",
+   "hash": "736198f2",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.484,
+   "cues": [
+    [
+     0.03,
+     2.334
+    ]
+   ]
+  },
+  "route:N05": {
+   "file": "voice/route-N05.mp3",
+   "hash": "f6740044",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.911,
+   "cues": [
+    [
+     0.03,
+     2.761
+    ]
+   ]
+  },
+  "route:N06": {
+   "file": "voice/route-N06.mp3",
+   "hash": "54f5cc46",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.42,
+   "cues": [
+    [
+     0.03,
+     2.27
+    ]
+   ]
+  },
+  "route:N07": {
+   "file": "voice/route-N07.mp3",
+   "hash": "d05fba18",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.761,
+   "cues": [
+    [
+     0.03,
+     2.611
+    ]
+   ]
+  },
+  "route:N08": {
+   "file": "voice/route-N08.mp3",
+   "hash": "f54c9036",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.761,
+   "cues": [
+    [
+     0.03,
+     2.611
+    ]
+   ]
+  },
+  "route:N09": {
+   "file": "voice/route-N09.mp3",
+   "hash": "84e34cf6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.761,
+   "cues": [
+    [
+     0.03,
+     2.611
+    ]
+   ]
+  },
+  "route:N10": {
+   "file": "voice/route-N10.mp3",
+   "hash": "44be86fa",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.783,
+   "cues": [
+    [
+     0.03,
+     2.633
+    ]
+   ]
+  },
+  "route:N11": {
+   "file": "voice/route-N11.mp3",
+   "hash": "242ee8b4",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.591,
+   "cues": [
+    [
+     0.03,
+     2.441
+    ]
+   ]
+  },
+  "route:N12": {
+   "file": "voice/route-N12.mp3",
+   "hash": "7b52db5a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.228,
+   "cues": [
+    [
+     0.03,
+     2.078
+    ]
+   ]
+  },
+  "route:N13": {
+   "file": "voice/route-N13.mp3",
+   "hash": "f919ced6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.719,
+   "cues": [
+    [
+     0.03,
+     2.569
+    ]
+   ]
+  },
+  "route:N14": {
+   "file": "voice/route-N14.mp3",
+   "hash": "c3e61938",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.441,
+   "cues": [
+    [
+     0.03,
+     2.291
+    ]
+   ]
+  },
+  "route:N15": {
+   "file": "voice/route-N15.mp3",
+   "hash": "4fa4e9be",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.42,
+   "cues": [
+    [
+     0.03,
+     2.27
+    ]
+   ]
+  },
+  "route:N16": {
+   "file": "voice/route-N16.mp3",
+   "hash": "a76180aa",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.164,
+   "cues": [
+    [
+     0.03,
+     2.014
+    ]
+   ]
+  },
+  "route:N17": {
+   "file": "voice/route-N17.mp3",
+   "hash": "0a2f1a82",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.207,
+   "cues": [
+    [
+     0.03,
+     2.057
+    ]
+   ]
+  },
+  "route:N18": {
+   "file": "voice/route-N18.mp3",
+   "hash": "16ec5c06",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.228,
+   "cues": [
+    [
+     0.03,
+     2.078
+    ]
+   ]
+  },
+  "route:N19": {
+   "file": "voice/route-N19.mp3",
+   "hash": "9f9a1a1a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.335,
+   "cues": [
+    [
+     0.03,
+     2.185
+    ]
+   ]
+  },
+  "route:N20": {
+   "file": "voice/route-N20.mp3",
+   "hash": "8596f3da",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.143,
+   "cues": [
+    [
+     0.03,
+     1.993
+    ]
+   ]
+  },
+  "route:N21": {
+   "file": "voice/route-N21.mp3",
+   "hash": "31507aa6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.335,
+   "cues": [
+    [
+     0.03,
+     2.185
+    ]
+   ]
+  },
+  "route:N22": {
+   "file": "voice/route-N22.mp3",
+   "hash": "cafcee18",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.356,
+   "cues": [
+    [
+     0.03,
+     2.206
+    ]
+   ]
+  },
+  "route:N23": {
+   "file": "voice/route-N23.mp3",
+   "hash": "7ddc4f52",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.697,
+   "cues": [
+    [
+     0.03,
+     2.547
+    ]
+   ]
+  },
+  "route:N24": {
+   "file": "voice/route-N24.mp3",
+   "hash": "37f4a530",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.292,
+   "cues": [
+    [
+     0.03,
+     2.142
+    ]
+   ]
+  },
+  "route:N25": {
+   "file": "voice/route-N25.mp3",
+   "hash": "ca451f46",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.356,
+   "cues": [
+    [
+     0.03,
+     2.206
+    ]
+   ]
+  },
+  "route:N26": {
+   "file": "voice/route-N26.mp3",
+   "hash": "e2f44b5a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.249,
+   "cues": [
+    [
+     0.03,
+     2.099
+    ]
+   ]
+  },
+  "route:N27": {
+   "file": "voice/route-N27.mp3",
+   "hash": "bd011bda",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.164,
+   "cues": [
+    [
+     0.03,
+     2.014
+    ]
+   ]
+  },
+  "route:N28": {
+   "file": "voice/route-N28.mp3",
+   "hash": "812b3fe6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.207,
+   "cues": [
+    [
+     0.03,
+     2.057
+    ]
+   ]
+  },
+  "route:N29": {
+   "file": "voice/route-N29.mp3",
+   "hash": "073e3168",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.292,
+   "cues": [
+    [
+     0.03,
+     2.142
+    ]
+   ]
+  },
+  "route:N30": {
+   "file": "voice/route-N30.mp3",
+   "hash": "3f6e38b6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.463,
+   "cues": [
+    [
+     0.03,
+     2.313
+    ]
+   ]
+  },
+  "route:N31": {
+   "file": "voice/route-N31.mp3",
+   "hash": "8e4b17d2",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.783,
+   "cues": [
+    [
+     0.03,
+     2.633
+    ]
+   ]
+  },
+  "route:N32": {
+   "file": "voice/route-N32.mp3",
+   "hash": "9cb96b46",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.633,
+   "cues": [
+    [
+     0.03,
+     2.483
+    ]
+   ]
+  },
+  "route:N33": {
+   "file": "voice/route-N33.mp3",
+   "hash": "45890256",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.889,
+   "cues": [
+    [
+     0.03,
+     2.739
+    ]
+   ]
+  },
+  "route:N34": {
+   "file": "voice/route-N34.mp3",
+   "hash": "4c1cf69a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.231,
+   "cues": [
+    [
+     0.03,
+     3.081
+    ]
+   ]
+  },
+  "standing-by": {
+   "file": "voice/standing-by.mp3",
+   "hash": "52dbd3c6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.417,
+   "cues": [
+    [
+     0.03,
+     1.267
+    ]
+   ]
+  },
+  "station:body": {
+   "file": "voice/station-body.mp3",
+   "hash": "920771c4",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.481,
+   "cues": [
+    [
+     0.03,
+     1.331
+    ]
+   ]
+  },
+  "station:examples": {
+   "file": "voice/station-examples.mp3",
+   "hash": "16a9011a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.78,
+   "cues": [
+    [
+     0.03,
+     1.63
+    ]
+   ]
+  },
+  "station:lesson": {
+   "file": "voice/station-lesson.mp3",
+   "hash": "6bda4172",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.545,
+   "cues": [
+    [
+     0.03,
+     1.395
+    ]
+   ]
+  },
+  "station:model": {
+   "file": "voice/station-model.mp3",
+   "hash": "32b0cfa9",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.353,
+   "cues": [
+    [
+     0.03,
+     1.203
+    ]
+   ]
+  },
+  "station:theater": {
+   "file": "voice/station-theater.mp3",
+   "hash": "15db6114",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.079,
+   "cues": [
+    [
+     0.03,
+     1.929
+    ]
+   ]
+  },
+  "top": {
+   "file": "voice/top.mp3",
+   "hash": "05c4f1ac",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.759,
+   "cues": [
+    [
+     0.03,
+     1.609
+    ]
+   ]
+  },
+  "tour-end": {
+   "file": "voice/tour-end.mp3",
+   "hash": "ac73f7e8",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.228,
+   "cues": [
+    [
+     0.03,
+     2.078
+    ]
+   ]
+  },
+  "tour-start": {
+   "file": "voice/tour-start.mp3",
+   "hash": "bbcf6f5a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.228,
+   "cues": [
+    [
+     0.03,
+     2.078
+    ]
+   ]
+  },
+  "up": {
+   "file": "voice/up.mp3",
+   "hash": "e042581e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.119,
+   "cues": [
+    [
+     0.03,
+     0.969
+    ]
+   ]
+  },
+  "visor-off": {
+   "file": "voice/visor-off.mp3",
+   "hash": "95d518a8",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.311,
+   "cues": [
+    [
+     0.03,
+     1.161
+    ]
+   ]
+  },
+  "visor-on": {
+   "file": "voice/visor-on.mp3",
+   "hash": "3ec1cf22",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.289,
+   "cues": [
+    [
+     0.03,
+     1.139
+    ]
+   ]
+  },
+  "where-level:T01": {
+   "file": "voice/where-level-T01.mp3",
+   "hash": "70951166",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.975,
+   "cues": [
+    [
+     0.03,
+     2.825
+    ]
+   ]
+  },
+  "where-level:T02": {
+   "file": "voice/where-level-T02.mp3",
+   "hash": "30d9d0ca",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.847,
+   "cues": [
+    [
+     0.03,
+     2.697
+    ]
+   ]
+  },
+  "where-level:T03": {
+   "file": "voice/where-level-T03.mp3",
+   "hash": "03ff687e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.06,
+   "cues": [
+    [
+     0.03,
+     2.91
+    ]
+   ]
+  },
+  "where-level:T04": {
+   "file": "voice/where-level-T04.mp3",
+   "hash": "d8d564f6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.081,
+   "cues": [
+    [
+     0.03,
+     2.931
+    ]
+   ]
+  },
+  "where-level:T05": {
+   "file": "voice/where-level-T05.mp3",
+   "hash": "c11194d4",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.039,
+   "cues": [
+    [
+     0.03,
+     2.889
+    ]
+   ]
+  },
+  "where-level:T06": {
+   "file": "voice/where-level-T06.mp3",
+   "hash": "1fdfbfba",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.825,
+   "cues": [
+    [
+     0.03,
+     2.675
+    ]
+   ]
+  },
+  "where-level:T07": {
+   "file": "voice/where-level-T07.mp3",
+   "hash": "8d853c34",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.849,
+   "cues": [
+    [
+     0.03,
+     3.699
+    ]
+   ]
+  },
+  "where-outside": {
+   "file": "voice/where-outside.mp3",
+   "hash": "b85d32b2",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.633,
+   "cues": [
+    [
+     0.03,
+     2.483
+    ]
+   ]
+  },
+  "where-plaza": {
+   "file": "voice/where-plaza.mp3",
+   "hash": "610a392e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.356,
+   "cues": [
+    [
+     0.03,
+     2.206
+    ]
+   ]
+  },
+  "where:N01": {
+   "file": "voice/where-N01.mp3",
+   "hash": "70aeb522",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.74,
+   "cues": [
+    [
+     0.03,
+     2.59
+    ]
+   ]
+  },
+  "where:N02": {
+   "file": "voice/where-N02.mp3",
+   "hash": "d3124cb6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.548,
+   "cues": [
+    [
+     0.03,
+     2.398
+    ]
+   ]
+  },
+  "where:N03": {
+   "file": "voice/where-N03.mp3",
+   "hash": "a454b98a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.975,
+   "cues": [
+    [
+     0.03,
+     2.825
+    ]
+   ]
+  },
+  "where:N04": {
+   "file": "voice/where-N04.mp3",
+   "hash": "940a76c6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.719,
+   "cues": [
+    [
+     0.03,
+     2.569
+    ]
+   ]
+  },
+  "where:N05": {
+   "file": "voice/where-N05.mp3",
+   "hash": "b7d478ba",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.231,
+   "cues": [
+    [
+     0.03,
+     3.081
+    ]
+   ]
+  },
+  "where:N06": {
+   "file": "voice/where-N06.mp3",
+   "hash": "5eb8a06c",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.569,
+   "cues": [
+    [
+     0.03,
+     2.419
+    ]
+   ]
+  },
+  "where:N07": {
+   "file": "voice/where-N07.mp3",
+   "hash": "653d6712",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.017,
+   "cues": [
+    [
+     0.03,
+     2.867
+    ]
+   ]
+  },
+  "where:N08": {
+   "file": "voice/where-N08.mp3",
+   "hash": "2d6c6716",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.889,
+   "cues": [
+    [
+     0.03,
+     2.739
+    ]
+   ]
+  },
+  "where:N09": {
+   "file": "voice/where-N09.mp3",
+   "hash": "e9d791e4",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.74,
+   "cues": [
+    [
+     0.03,
+     2.59
+    ]
+   ]
+  },
+  "where:N10": {
+   "file": "voice/where-N10.mp3",
+   "hash": "3fc36a26",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.847,
+   "cues": [
+    [
+     0.03,
+     2.697
+    ]
+   ]
+  },
+  "where:N11": {
+   "file": "voice/where-N11.mp3",
+   "hash": "eb12bf0e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.932,
+   "cues": [
+    [
+     0.03,
+     2.782
+    ]
+   ]
+  },
+  "where:N12": {
+   "file": "voice/where-N12.mp3",
+   "hash": "bda7e1ce",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.569,
+   "cues": [
+    [
+     0.03,
+     2.419
+    ]
+   ]
+  },
+  "where:N13": {
+   "file": "voice/where-N13.mp3",
+   "hash": "7a798766",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.017,
+   "cues": [
+    [
+     0.03,
+     2.867
+    ]
+   ]
+  },
+  "where:N14": {
+   "file": "voice/where-N14.mp3",
+   "hash": "4dc3e92e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.825,
+   "cues": [
+    [
+     0.03,
+     2.675
+    ]
+   ]
+  },
+  "where:N15": {
+   "file": "voice/where-N15.mp3",
+   "hash": "c405f410",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.74,
+   "cues": [
+    [
+     0.03,
+     2.59
+    ]
+   ]
+  },
+  "where:N16": {
+   "file": "voice/where-N16.mp3",
+   "hash": "86798ff8",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.505,
+   "cues": [
+    [
+     0.03,
+     2.355
+    ]
+   ]
+  },
+  "where:N17": {
+   "file": "voice/where-N17.mp3",
+   "hash": "d1d2bea2",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.569,
+   "cues": [
+    [
+     0.03,
+     2.419
+    ]
+   ]
+  },
+  "where:N18": {
+   "file": "voice/where-N18.mp3",
+   "hash": "4be115aa",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.505,
+   "cues": [
+    [
+     0.03,
+     2.355
+    ]
+   ]
+  },
+  "where:N19": {
+   "file": "voice/where-N19.mp3",
+   "hash": "4ad4924e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.569,
+   "cues": [
+    [
+     0.03,
+     2.419
+    ]
+   ]
+  },
+  "where:N20": {
+   "file": "voice/where-N20.mp3",
+   "hash": "f3b33f94",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.484,
+   "cues": [
+    [
+     0.03,
+     2.334
+    ]
+   ]
+  },
+  "where:N21": {
+   "file": "voice/where-N21.mp3",
+   "hash": "b3e10914",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.591,
+   "cues": [
+    [
+     0.03,
+     2.441
+    ]
+   ]
+  },
+  "where:N22": {
+   "file": "voice/where-N22.mp3",
+   "hash": "eb22c1ee",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.633,
+   "cues": [
+    [
+     0.03,
+     2.483
+    ]
+   ]
+  },
+  "where:N23": {
+   "file": "voice/where-N23.mp3",
+   "hash": "c01989e2",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.932,
+   "cues": [
+    [
+     0.03,
+     2.782
+    ]
+   ]
+  },
+  "where:N24": {
+   "file": "voice/where-N24.mp3",
+   "hash": "18ba723e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.569,
+   "cues": [
+    [
+     0.03,
+     2.419
+    ]
+   ]
+  },
+  "where:N25": {
+   "file": "voice/where-N25.mp3",
+   "hash": "e22808c6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.676,
+   "cues": [
+    [
+     0.03,
+     2.526
+    ]
+   ]
+  },
+  "where:N26": {
+   "file": "voice/where-N26.mp3",
+   "hash": "a6598bc6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.591,
+   "cues": [
+    [
+     0.03,
+     2.441
+    ]
+   ]
+  },
+  "where:N27": {
+   "file": "voice/where-N27.mp3",
+   "hash": "ab0079d8",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.548,
+   "cues": [
+    [
+     0.03,
+     2.398
+    ]
+   ]
+  },
+  "where:N28": {
+   "file": "voice/where-N28.mp3",
+   "hash": "f9d496ec",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.569,
+   "cues": [
+    [
+     0.03,
+     2.419
+    ]
+   ]
+  },
+  "where:N29": {
+   "file": "voice/where-N29.mp3",
+   "hash": "83377426",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.591,
+   "cues": [
+    [
+     0.03,
+     2.441
+    ]
+   ]
+  },
+  "where:N30": {
+   "file": "voice/where-N30.mp3",
+   "hash": "a2c868a6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.719,
+   "cues": [
+    [
+     0.03,
+     2.569
+    ]
+   ]
+  },
+  "where:N31": {
+   "file": "voice/where-N31.mp3",
+   "hash": "cd68655e",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.103,
+   "cues": [
+    [
+     0.03,
+     2.953
+    ]
+   ]
+  },
+  "where:N32": {
+   "file": "voice/where-N32.mp3",
+   "hash": "47b19cb4",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.889,
+   "cues": [
+    [
+     0.03,
+     2.739
+    ]
+   ]
+  },
+  "where:N33": {
+   "file": "voice/where-N33.mp3",
+   "hash": "5a254bf6",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.996,
+   "cues": [
+    [
+     0.03,
+     2.846
+    ]
+   ]
+  },
+  "where:N34": {
+   "file": "voice/where-N34.mp3",
+   "hash": "bd79ad5a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 3.551,
+   "cues": [
+    [
+     0.03,
+     3.401
+    ]
+   ]
+  }
+ }
+}
