@@ -782,6 +782,32 @@
     ]
    ]
   },
+  "study-off": {
+   "file": "voice/study-off.mp3",
+   "hash": "1b5caf9a",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 1.972,
+   "cues": [
+    [
+     0.03,
+     1.822
+    ]
+   ]
+  },
+  "study-on": {
+   "file": "voice/study-on.mp3",
+   "hash": "e2bcd218",
+   "voice": "bf_emma",
+   "speed": 0.92,
+   "duration": 2.825,
+   "cues": [
+    [
+     0.03,
+     2.675
+    ]
+   ]
+  },
   "top": {
    "file": "voice/top.mp3",
    "hash": "05c4f1ac",
