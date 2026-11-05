@@ -1,4 +1,4 @@
-import{c as a}from"./chunk-W46U2OC5.js";import{a as e}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var r={id:"D04",cam:[3.8,1.05,5.9],target:[.16,-.26,.02],floor:-1.6,ring:1.9,accent:e(a.D04),poster:5.5,glsl:`
+import{c as a}from"./chunk-6Q7FPIH3.js";import{a as e}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var r={id:"D04",cam:[3.8,1.05,5.9],target:[.16,-.26,.02],floor:-1.6,ring:1.9,accent:e(a.D04),poster:5.5,glsl:`
 const float GY = -.85;   // the floor
 const vec3 BOX = vec3(.7, .5, .55);   // the closed box's half-size, its centre at (0, GY + .5, 0)
 

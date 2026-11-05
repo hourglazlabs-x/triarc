@@ -1,4 +1,4 @@
-import{c as s}from"./chunk-W46U2OC5.js";import{a as e}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var t={id:"D06",cam:[2.15,1.3,4.75],target:[0,-.55,.12],floor:-1.6,ring:1.9,accent:e(s.D06),poster:8.6,glsl:`
+import{c as s}from"./chunk-6Q7FPIH3.js";import{a as e}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var t={id:"D08",cam:[2.15,1.3,4.75],target:[0,-.55,.12],floor:-1.6,ring:1.9,accent:e(s.D08),poster:8.6,glsl:`
 const float GY = -1.;
 const vec3 PR = vec3(-1., GY, -.2);     // the press
 const vec3 FR = vec3(.82, GY, -.3);     // the frame

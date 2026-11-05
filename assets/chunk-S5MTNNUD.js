@@ -1,4 +1,4 @@
-import{c as e}from"./chunk-W46U2OC5.js";import{a}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var s={id:"D02",cam:[3.1,2.95,6.95],target:[-.12,-.32,.32],floor:-1.6,ring:2.1,accent:a(e.D02),poster:3.3,glsl:`
+import{c as e}from"./chunk-6Q7FPIH3.js";import{a}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var s={id:"D02",cam:[3.1,2.95,6.95],target:[-.12,-.32,.32],floor:-1.6,ring:2.1,accent:a(e.D02),poster:3.3,glsl:`
 const float G = -.55;        // the ground
 const float XE = 1.5;        // the model's ends: the hall runs on beyond them
 const float ZE = 1.7;        // the outer walls: 408 ft across

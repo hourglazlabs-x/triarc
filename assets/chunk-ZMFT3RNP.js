@@ -1,4 +1,4 @@
-import{c as a}from"./chunk-W46U2OC5.js";import{a as e}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var r={id:"D01",cam:[3.55,1.5,5.1],target:[0,.08,0],floor:-1.62,ring:1.85,accent:e(a.D01),poster:4.2,glsl:`
+import{c as a}from"./chunk-6Q7FPIH3.js";import{a as e}from"./chunk-WY76X7OO.js";import"./chunk-Z7BKUDRS.js";import"./chunk-KR4ZLU5I.js";var r={id:"D01",cam:[3.55,1.5,5.1],target:[0,.08,0],floor:-1.62,ring:1.85,accent:e(a.D01),poster:4.2,glsl:`
 const float Y0 = -.85;                // the springing, on top of the drum
 const float YT = 1.35;                // the eye, above the springing
 const float RO = 1.7125, RI = 1.517;  // the sails' arcs: 3/4 of 55 m and 4/5 of 45.5 m, in units of 24 m
